@@ -283,9 +283,9 @@ export default {
             label: "ACL4SSR",
             options: [
               {
-                label: "ACL4SSR_Online 默认版 分组比较全(与Github同步)",
+                label: "虾皮自用",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                  "https://raw.githubusercontent.com/Ghislanine/xp/main/xp.ini"
               },
               {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告(与Github同步)",
